@@ -1,0 +1,44 @@
+#box{
+   
+   -fx-background-color: lightsteelblue;
+}
+
+#pane{
+   -fx-background-color: lightsteelblue;
+}
+#OpenFile{
+    -fx-background-image: url("../Images/Folder.png");
+    -fx-background-color: transparent;
+     -fx-background-size: 40,39;
+      -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+        -fx-border-color: transparent;
+}
+
+#PlayButton{
+    -fx-background-image: url("../Images/Play.png");
+     -fx-background-color: transparent;
+     -fx-background-size: 40,39;
+      -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+        -fx-border-color: transparent;
+}
+
+#PauseButton{
+    -fx-background-image: url("../Images/Pause.png");
+     -fx-background-color: transparent;
+     -fx-background-size: 40,39;
+      -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+        -fx-border-color: transparent;
+}
+
+#StopButton{
+    -fx-background-image: url("../Images/Stop.png");
+     -fx-background-color: transparent;
+     -fx-background-size: 40,39;
+      -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+        -fx-border-color: transparent;
+}
+
